@@ -108,6 +108,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: XR Mouns 1
       objectReference: {fileID: 0}
+    - target: {fileID: 9028870362275043321, guid: 0571f17428701c647946c6498600084e,
+        type: 3}
+      propertyPath: m_TagString
+      value: Player
+      objectReference: {fileID: 0}
     - target: {fileID: 9028870362275043322, guid: 0571f17428701c647946c6498600084e,
         type: 3}
       propertyPath: m_LocalPosition.x
